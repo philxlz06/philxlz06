@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Philip 👋
 
-<!--
-**philxlz06/philxlz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student building backend and AI infrastructure, mostly the reliability side: what happens when agents crash, retry, or need a human to sign off.
 
-Here are some ideas to get you started:
+**Building now**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [agent-runtime](https://github.com/philxlz06/agent-runtime): durable execution engine for AI agents on Postgres. Crash a worker mid-task and the run resumes without repeating side effects. [Live demo →](https://runtime.philx.dev)
+
+**Next:** an incident-response agent that runs on top of it.
+
+**Stack:** Python · asyncio · Postgres · FastAPI · Docker · GitHub Actions · AWS
+
+📫 [philx.dev](https://philx.dev) · [LinkedIn](https://www.linkedin.com/in/philip-shaji-baby-499893331)
